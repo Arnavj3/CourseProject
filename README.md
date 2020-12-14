@@ -9,3 +9,4 @@ To run the code follow the following steps:
 - the last cell will have the following search fields:
     artist, album, year, sentiment, profanity and lyric. You can use these search fields to find a song you're looking for.
 
+The following video explains all the different steps taken to create this project - https://www.youtube.com/watch?v=briL4ZidYhE
